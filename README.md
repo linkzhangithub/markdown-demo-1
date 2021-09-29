@@ -21,5 +21,5 @@
 ![一张图片](1.png)
 
 ```javascript
-console.log('hellp')
+console.log('hello')
 ```
